@@ -1,0 +1,27 @@
+.body {
+    color: blueviolet;
+}
+
+.sideBar {
+    width: 29%;
+    background-color: blanchedalmond;
+    float: left;
+    display: inline-block;
+    height: 300px;
+}
+
+.mainBody {
+    width: 70%;
+    background-color: rgb(205, 200, 218);
+    float: left;
+    display: inline-block;
+    height: 300px;
+}
+.topSide {
+    display: inline;
+    float: left;
+}
+.navBar {
+    position: fixed;
+    display: inline-block;
+}
